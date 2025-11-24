@@ -1,9 +1,6 @@
 ### Hello there 👋, brave traveller! 🚀
 
-- 🔭 I’m currently working on DevSecOps stuff
-- 📫 How to reach me: [twitter.com/TopherVizcarra](https://twitter.com/TopherVizcarra)
-- 📝 Read my blogs: [[dev.to/TigerTopher](https://dev.to/TigerTopher), https://www.tophervizcarra.com/]
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on Platform Security Engineering stuff
 - 📷 © Profile Picture Art by: [Zhihui E](https://instagram.com/zhihui.e)
 
 <!--
