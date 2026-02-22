@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Platform Security Engineering stuff
 - 📷 © Profile Picture Art by: [Zhihui E](https://instagram.com/zhihui.e)
+- Outside work: Checkout my TCG Pokédex Journey - https://pokedex-tcg-tracker.vercel.app/
 
 <!--
 **TigerTopher/TigerTopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
